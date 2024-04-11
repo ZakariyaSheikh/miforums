@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="160px" viewBox="0 0 192 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 9 Copy 3</title>
+    <defs>
+        <polygon id="path-1" points="0.160336986 0.887496599 84.8560822 0.887496599 84.8560822 171.039959 0.160336986 171.039959"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V7:-T&amp;Cs" transform="translate(-1159.000000, -2314.000000)">
+            <g id="Group-9-Copy-3" transform="translate(1254.728185, 2393.806080) rotate(-60.000000) translate(-1254.728185, -2393.806080) translate(1212.228185, 2307.806080)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-8"></g>
+                <path d="M84.8562,171.039959 C38.6588849,171.039959 0.160336986,132.803306 0.160336986,85.9666531 C0.160336986,39.1288299 38.6588849,0.887496599 84.8562,0.887496599 L84.8562,171.039959 Z" id="Fill-7" fill="#FFE359" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

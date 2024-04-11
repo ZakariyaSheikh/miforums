@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="193px" height="195px" viewBox="0 0 193 195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shape/@semicircle</title>
+    <defs>
+        <polygon id="path-1" points="0.169407929 0.0809252349 89.6567505 0.0809252349 89.6567505 180.842008 0.169407929 180.842008"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rates-page" transform="translate(-1047.000000, -2127.000000)">
+            <g id="Group-15" transform="translate(26.917648, 2090.000000)">
+                <g id="shape/@semicircle" transform="translate(1116.682984, 134.347538) rotate(136.000000) translate(-1116.682984, -134.347538) translate(1071.182984, 43.347538)">
+                    <g id="Group-9" transform="translate(0.318628, 0.112903)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-8"></g>
+                        <path d="M89.656875,180.842008 C40.845982,180.842008 0.169407929,140.221386 0.169407929,90.464574 C0.169407929,40.7065189 40.845982,0.0809252349 89.656875,0.0809252349 L89.656875,180.842008 Z" id="Fill-7" fill="#FF5959" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

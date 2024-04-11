@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`</Checkbox> should render as expected 1`] = `
+<span
+  className="checkboxTest"
+>
+  <label>
+    <input
+      disabled={false}
+      id="Test"
+      name="Test"
+      onChange={[MockFunction]}
+      type="checkbox"
+    />
+    Test
+  </label>
+</span>
+`;

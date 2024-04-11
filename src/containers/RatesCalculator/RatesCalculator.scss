@@ -1,0 +1,162 @@
+@import '../../styles/helpers/helpers';
+
+.rates {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 2rem;
+    flex-direction: column;
+    @include bp($phablet) {
+        width: 100%;
+        padding: 0px 0rem 50px 0rem;
+    }
+    &__heading {
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+    &__calculator {
+        display: flex;
+        width: 100%;
+        min-height: 500px;
+        flex-wrap: wrap-reverse;
+        margin: 0 auto;
+        @include bp($phablet) {
+            flex-wrap: nowrap;
+        }
+    }
+}
+
+.calculator {
+    &__list {
+        width: 100%;
+        background-color: $white;
+        padding: 2rem;
+        @include bp($phablet) {
+            width: 70%;
+        }
+    }
+    &__sidebar {
+        color: $white;
+        width: 100%;
+        padding: 2rem;
+        background-color: #335653;
+        @include bp($phablet) {
+            width: 360px;
+            height: 900px;
+        }
+    }
+}
+
+.sidebar {
+    &__dropdown {
+        width: 100%;
+        margin: 1rem 0 2rem 0 !important;
+        height: 40px !important;
+        border-radius: 0;
+        padding: 0px;
+        font-size: 20px!important;
+        color: #ffffff !important;
+        border-bottom: 1px solid #fff;
+        width: 95%!important;
+        background-color: #0000;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        text-indent: 1px;
+        text-overflow: '';
+    }
+    & .barDivider {
+        border-top: 1px solid #fff!important;
+        width: 95%;
+    }
+    & p {
+        font-size: 20px !important;
+        padding-right: 35px;
+    }
+    &--white {
+        color: $white !important;
+        h4 {
+            color: $white;
+        }
+    }
+}
+
+.list {
+    @include bp($phablet, max-width) {
+        padding-left:0;
+    }
+    &__item {
+        display: flex;
+    }
+    &--blue {
+        color: $primary;
+    }
+}
+
+.item {
+    &__column {
+        &--left {
+            width: 65%;
+            margin-right: -2rem;
+             @include bp($phablet, max-width) {
+            margin-right: 0rem;
+            width: 100%;
+            padding-right:0px;
+             }
+            & hr {
+                border-top: 1px solid #fff!important;
+                margin: 30px 0 !important;
+                width: 145%;
+                background-color:unset;
+            }
+        }
+        &--right {
+            width: 30%;
+            border-left: 1px solid;
+            height: 20%;
+            padding-left: 5%;
+        }
+    }
+}
+.rates-section .item:last-child hr{
+    display:none;
+}
+
+.content-list {
+    margin-bottom: 1rem;
+    li {
+        display: inline-block;
+        margin-right: 1rem;
+        position: relative;
+        padding-left: 1rem;
+        &:before {
+            content: '•';
+            display: inline-block;
+            position: absolute;
+            color: $primary;
+            font-size: 20px;
+            left: 0;
+            top: -2px;
+        }
+    }
+}
+.ratesCheckbox {
+    display: -webkit-box;
+}
+.checkbox {
+    display: block;
+    margin-right: 15%;
+    label {
+        display: block;
+        align-items: center;
+        font-size: 18px;
+        margin-left: 0 !important;
+    }
+    input {
+        margin-right: 1rem;
+    }
+}
+input[type='checkbox'],
+input[type='radio'] {
+    cursor: pointer;
+}
+

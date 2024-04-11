@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="190px" height="190px" viewBox="0 0 190 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shape/@quartercircle</title>
+    <defs>
+        <polygon id="path-1" points="0.531712329 0.796684564 139.243904 0.796684564 139.243904 137.28433 0.531712329 137.28433"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rates-page" transform="translate(-27.000000, -2469.000000)">
+            <g id="Group-15" transform="translate(26.917648, 2090.000000)">
+                <g id="shape/@quartercircle" transform="translate(95.000000, 473.722743) rotate(-29.000000) translate(-95.000000, -473.722743) translate(25.000000, 404.222743)">
+                    <g id="Group-3" transform="translate(0.000000, 0.136201)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M0.531712329,137.28433 C0.531712329,62.1459671 63.5825342,0.796591275 139.243904,0.796591275 L139.243904,137.28433 L0.531712329,137.28433 Z" id="Fill-1" fill="#FFE359" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

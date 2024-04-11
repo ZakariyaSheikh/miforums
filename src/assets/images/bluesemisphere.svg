@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="230px" height="177px" viewBox="0 0 230 177" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 9</title>
+    <defs>
+        <polygon id="path-1" points="0.256811332 0.313072118 100.60126 0.313072118 100.60126 205.563081 0.256811332 205.563081"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V7:-Pardot---Contact-us-form" transform="translate(-1018.000000, -1484.000000)">
+            <g id="Group-9" transform="translate(1132.635383, 1572.027920) rotate(-294.000000) translate(-1132.635383, -1572.027920) translate(1082.135383, 1469.027920)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-8"></g>
+                <path d="M100.60126,205.563081 C45.868432,205.563081 0.256811332,159.439309 0.256811332,102.941605 C0.256811332,46.4424898 45.868432,0.313072118 100.60126,0.313072118 L100.60126,205.563081 Z" id="Fill-7" fill="#2E66FF" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
